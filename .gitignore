@@ -1,0 +1,16 @@
+# 构建产物
+macdeepsleep
+macdeepsleep.build
+*.o
+*.dSYM/
+build/
+
+# macOS 垃圾文件
+.DS_Store
+._*
+.AppleDouble
+
+# 日志与本地配置（不应入库）
+*.log
+*.local
+.env
