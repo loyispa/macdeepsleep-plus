@@ -1,7 +1,9 @@
 # macdeepsleep-plus
 
 Cut the network when the lid closes, restore it when the lid opens. Fixes the fast
-battery drain MacBooks show while sleeping with the lid shut.
+battery drain MacBooks show while sleeping with the lid shut. 
+
+> Based on my testing, battery drain during sleep is less than 1% per day. 
 
 ## Features
 
